@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589843192 source:/home/rony/D_Ubuntu/Clases/parcialProg/main.c
+	<stdio.h>
+	<stdlib.h>
+
